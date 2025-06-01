@@ -1,2 +1,4 @@
 Hello,Git!
 "Learning Git is fun"
+"This is a new feature"
+"This is a new feature in featur1 branch"
